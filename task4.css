@@ -1,0 +1,78 @@
+@charset "UTF-8";
+html{
+    font-size: 62.5%;
+    font-family: Microsoft YaHei, serif;
+}
+body{min-width: 32em;}
+*{
+    margin: 0;
+    padding: 0;
+}
+ul{
+    list-style-type: none;
+}
+img{
+    max-width: 100%;
+}
+.wrap{
+    width: 100%;
+    background: #eff0f4;
+}
+.header h1{
+    font-size: 4em;color: #ffffff;
+    letter-spacing:0.2em;
+    background-color: #5ac0ce;
+    text-align: center;
+    line-height: 1.9em;
+}
+.header span {
+    font-size: 3em;color: #ffffff;
+    font-weight: bold;
+    position: relative;
+    bottom:1.6em;
+}
+.header strong {
+    font-size: 3em;
+    color: #ffffff;
+    float: right;
+    position: relative;
+    bottom: 1.6em;
+}
+form ul{
+    margin-bottom: 4em;
+}
+form ul li{
+    background-color: #ffffff;
+    margin-top: 3em;
+    padding: 2% 0;
+}
+label {
+    display: inline-block;
+    padding: 0 2%;
+    text-align: center;
+    vertical-align: middle;
+}
+input {
+    width: 20%;
+    font-size: 3.2em;
+    text-indent: 1em;
+    vertical-align: middle;
+    border: none;
+    border-left: 1px solid #eaedee;}
+button{
+    width: 100%;
+    background-color: #5fc0ce;
+    font-size: 4em;color: #ffffff;
+    letter-spacing: 0.2em;
+    padding: 0.4em;
+    font-family: Microsoft YaHei, serif;
+}
+p{
+    font-size: 2em;
+    float: right;
+
+}
+a:link{color: #000000}
+a:visited{color: red;}
+a:link {text-decoration:none;}
+a:visited {text-decoration:none;}
