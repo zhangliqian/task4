@@ -70,9 +70,4 @@ button{
 p{
     font-size: 2em;
     float: right;
-
 }
-a:link{color: #000000}
-a:visited{color: red;}
-a:link {text-decoration:none;}
-a:visited {text-decoration:none;}
